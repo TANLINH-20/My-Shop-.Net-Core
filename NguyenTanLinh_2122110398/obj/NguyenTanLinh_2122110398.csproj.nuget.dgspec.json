@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj": {}
+    "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj": {}
   },
   "projects": {
-    "D:\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj": {
+    "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj",
+        "projectUniqueName": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj",
         "projectName": "NguyenTanLinh_2122110398",
-        "projectPath": "D:\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj",
+        "projectPath": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398\\obj\\",
+        "outputPath": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.3, )"
@@ -59,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
