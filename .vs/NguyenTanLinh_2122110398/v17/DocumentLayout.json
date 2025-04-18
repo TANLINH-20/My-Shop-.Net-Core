@@ -1,34 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\",
+  "WorkspaceRootPath": "D:\\My-Shop-.Net-Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\nguyentanlinh_2122110398\\my-shop-.net-core\\nguyentanlinh_2122110398\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\nguyentanlinh_2122110398\\my-shop-.net-core\\nguyentanlinh_2122110398\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\nguyentanlinh_2122110398\\my-shop-.net-core\\nguyentanlinh_2122110398\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\nguyentanlinh_2122110398\\my-shop-.net-core\\nguyentanlinh_2122110398\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\nguyentanlinh_2122110398\\my-shop-.net-core\\nguyentanlinh_2122110398\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\nguyentanlinh_2122110398\\my-shop-.net-core\\nguyentanlinh_2122110398\\nguyentanlinh_2122110398.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\nguyentanlinh_2122110398.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\nguyentanlinh_2122110398\\my-shop-.net-core\\nguyentanlinh_2122110398\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|d:\\my-shop-.net-core\\nguyentanlinh_2122110398\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF379B7-1906-48F3-915D-7E447511048A}|NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.csproj|solutionrelative:nguyentanlinh_2122110398\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +110,321 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "NguyenTanLinh_2122110398\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAmwBoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAqwKYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:01:17.43Z",
+              "WhenOpened": "2025-04-11T16:42:33.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "NguyenTanLinh_2122110398\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowF4AAAANAAAAAAAAAA==",
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\CategoryDto.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:59:29.415Z",
+              "WhenOpened": "2025-04-17T13:55:35.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Model\\Category.cs",
-              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Model\\Category.cs",
-              "ToolTip": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Model\\Category.cs",
-              "RelativeToolTip": "NguyenTanLinh_2122110398\\Model\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:28:15.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Model\\Product.cs",
-              "ToolTip": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Model\\Product.cs",
-              "RelativeToolTip": "NguyenTanLinh_2122110398\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:59:09.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "NguyenTanLinh_2122110398\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:52:20.868Z",
+              "WhenOpened": "2025-04-11T15:50:27.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\WeatherForecast.cs",
-              "ToolTip": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\WeatherForecast.cs",
-              "RelativeToolTip": "NguyenTanLinh_2122110398\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "OrderDetailDto.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\OrderDetailDto.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\OrderDetailDto.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\OrderDetailDto.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\OrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:40:30.898Z",
+              "WhenOpened": "2025-04-12T10:07:11.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NguyenTanLinh_2122110398.http",
-              "DocumentMoniker": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.http",
-              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.http",
-              "ToolTip": "D:\\NguyenTanLinh_2122110398\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.http",
-              "RelativeToolTip": "NguyenTanLinh_2122110398\\NguyenTanLinh_2122110398.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-28T06:23:36.168Z",
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAwwJsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:42:11.467Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Models\\Product.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\Product.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:56:07.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileUploadService.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Services\\FileUploadService.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Services\\FileUploadService.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Services\\FileUploadService.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Services\\FileUploadService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:13:37.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\ProductDto.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:54:51.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Models\\Category.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\Category.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:56:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Models\\Order.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\Order.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Models\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:09:50.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:42:54.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwLMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:10:53.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\OrderDto.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:06:18.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Program.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Program.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:16:45.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:06:13.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Services\\AuthService.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Services\\AuthService.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Services\\AuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:08:04.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:57:11.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Models\\User.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Models\\User.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:10:51.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\Registration.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\Registration.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\Registration.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:53:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\UserRegisterDto.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\UserRegisterDto.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:10:19.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv1kAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:08:06.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:24:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\AddressDto.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\AddressDto.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\AddressDto.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\AddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:55:46.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\ChangePasswordDto.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:55:28.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "NguyenTanLinh_2122110398\\Dtos\\UserLoginDto.cs",
+              "ToolTip": "D:\\My-Shop-.Net-Core\\NguyenTanLinh_2122110398\\Dtos\\UserLoginDto.cs",
+              "RelativeToolTip": "NguyenTanLinh_2122110398\\Dtos\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:12:40.577Z"
             }
           ]
         }
